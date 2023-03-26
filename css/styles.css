@@ -1,4 +1,74 @@
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', 'sans-serif';
+        color: #212121;
+        font-size: 14px;
+        line-height: 1, 46;
+        font-weight: 700px;
+}
+.main-site
+{
+    font-size:26px;
+    font-weight:700;
+}
+.main-nav
+{
+    color:#000000;
+}
+.header-contakt 
+{
+    text-align: right;
+    width:500;
+}
+.social-links .link:hover .link:focus
+        {color:#2196F3;
+        }
+.text{
+    color:#757575;
+    font-size: 16px;
+    font-weight: 400;
+    
+}
+
+.text-2 {
+    color: #757575;
+    font-size: 14px;
+    font-weight: 400;
+    
+}
+.main-news {
+background-color: #2F303A;
+text-align: center;
+
+}
+.post-title 
+ {
+    color:#FFFFFF;
+    text-align: center;
+    font-size: 44px;
+    font-weight: 900;
+}
+.post-button 
+{
+    color:#FFFFFF;
+    background-color:#2196F3;
+    font-size: 14px;
+    font-weight: 700px;    
+}
+.header-section
+{
+    text-align: center;
+    font-size:36px;
+    font-width:700;
+}
+.our-crew-h3
+{
+    font-size: 16px;
+    font-weight:500;
+    
+}
+.our-crew-text, .our-crew-h3
+{
+    text-align: center;
+    
 }
