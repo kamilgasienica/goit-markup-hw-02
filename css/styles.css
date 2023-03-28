@@ -12,6 +12,16 @@ body {
     font-weight:700;
 }
 
+.footer-site
+{
+font-size: 26px;
+font-weight: 700;
+}
+
+.footer
+{
+    background-color: #2F303A;
+}
 .main-nav
 {
     color:#000000;
@@ -20,6 +30,17 @@ body {
 .header-contakt 
 {
 font-weight: 500;
+color: #757575;
+}
+
+.footer-contakt
+{
+    color: #FFFFFF60;
+}
+
+.maps
+{
+color: #FFFFFF;
 }
 
 .nav-links 
@@ -28,9 +49,9 @@ font-weight: 500;
     font-weight: 500
 }
 
-.nav-links .link:focus, :hover 
+a
 {
-    color: #2196F3;
+    text-decoration: none;
 }
 
 .button-portfolio
